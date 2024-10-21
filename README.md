@@ -8,5 +8,6 @@ Tải Tableau Desktop: Đầu tiên, bạn cần tải và cài đặt Tableau D
 Mở Tập Tin .twb: Bắt đầu bằng việc mở tập tin .twb mà bạn đã gửi trong Tableau Desktop bằng cách nhấp đúp vào nó.
 Chỉnh Sửa Kết Nối: Trong Tableau, trên thanh menu, chọn "Data" và sau đó chọn "Connections" hoặc "Data Source". Điều này sẽ mở một cửa sổ mới hiển thị các kết nối hiện tại của dashboard.
 ## Kết quả 
-![image](https://github.com/Thanhhien1005/DashboardBaoCaoDoanhSo/assets/170362430/80759abd-6ab5-4741-a3f2-5f33a7502db2)
+![image](https://github.com/user-attachments/assets/2d7f8381-068a-4185-b676-4ef35e6b3bcb)
+
 
